@@ -1,0 +1,23 @@
+{
+  "name": "zotero-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febr3s/zotero-uploader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febr3s/zotero-uploader/issues"
+  },
+  "homepage": "https://github.com/febr3s/zotero-uploader#readme",
+  "dependencies": {
+    "zotero-api-client": "^0.51.0"
+  }
+}
