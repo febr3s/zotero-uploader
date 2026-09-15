@@ -19,8 +19,14 @@ async function main() {
       },
       metadata: {
         title: 'Transients, New Mexico',
-        creator: 'Dorothea Lange',
-        subject: 'New Mexico',
+        creator: 'Albert Frisch', /* esto tiene que enderezarse*/
+        mediatype: 'image',
+        rights: 'public domain',
+        source: 'Albumen silver print',
+        size: '18.4 x 23.3 cm',
+        date: '[1867]',
+        coverage: 'Leticia, Colombia',
+        description: 'View of military outpost with a fenced field and three buildings with thatched roofs. Visible in the background is a forested area with tall trees. Also visible are a number of men in light-colored garments.',
       },
     });
 
